@@ -1,11 +1,11 @@
  ![banner](img/berlin.jpg)
 
-NOT WORKING
+# hello this is druckmax dev-branch
 
 * List
 * of
 * bullet
 * points
 
-<p> There DSFHUILSDHÖJFOIDJSFÖSD a bug in this file</p>
-<p> lorem ipsum blablabla </p>
+<p> this fucking sucks</p>
+<p> lorem ipsum fuck you too </p>

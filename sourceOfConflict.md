@@ -1,6 +1,6 @@
- ![banner](img/berlin.jpg)
+ ![banner](img/fuckoff.jpg)
 
-# hello this is druckmax dev-branch
+# These are changes by goldtoast
 
 * List
 * of

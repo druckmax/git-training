@@ -1,11 +1,11 @@
- ![banner](img/berlin.jpg)
+ ![banner](img/fuckoff.jpg)
 
-NOT WORKING
+# These are changes by goldtoast
 
 * List
 * of
 * bullet
 * points
 
-<p> There DSFHUILSDHÖJFOIDJSFÖSD a bug in this file</p>
-<p> lorem ipsum blablabla </p>
+<p> Hello DSFHUILSDHÖJFOIDJSFÖSD a bug in this file</p>
+<p> lorem fuck you ipsum blablabla </p>
